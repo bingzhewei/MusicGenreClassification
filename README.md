@@ -7,4 +7,4 @@ exhaustive experiments. We also compare the performance of neural networks and
 traditional learning models trained on hand-engineered statistical features for audio.
 Moreover, in our experiments, we show that given enough data, it is possible for
 deep neural networks to learn features directly on raw audio and attain classification accuracy comparable to the best performing traditional model learning from
-hand-engineered statistical features
+hand-engineered statistical features.
